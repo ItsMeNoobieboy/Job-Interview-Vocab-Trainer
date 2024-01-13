@@ -21,4 +21,6 @@ We learned how to integrate the ChatGPT API into a web application and combine d
 ## What's next for Job Interview Simulator
 If we were to continue this project, we’d like to refine the visuals and features of the website. It’s a bit laggy (on OpenAI’s end) which makes it more difficult to use and we’d like to use a better translation service which gives more nuance to the translations. Additionally, we’d like to add a feature so the user can enter words in their native language to the “Words to Learn” list. Finally, we believe it would also be helpful for learners to have an audio feature where they speak to the website and listen to the responses out loud, so they’re more confident in their ability to understand the interviewer and be understood.
 
-Script 
+## Instructions for Use
+
+To use this website, make sure to add your OpenAI API key to backend/api_key_storage.py!
