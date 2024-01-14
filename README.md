@@ -24,3 +24,16 @@ If we were to continue this project, we’d like to refine the visuals and featu
 ## Instructions for Use
 
 To use this website, make sure to add your OpenAI API key to backend/api_key_storage.py! In all of our building and testing we only spent 16¢, so if you're just using it a few times it shouldn't cost more than a cent for the API.
+
+For the frontend, run the following commands:
+```
+cd frontend
+npm i
+npm run dev
+```
+The server will be hosted at `localhost:5173`.
+
+For the backend, run the `Socket.py` file. For example:
+```
+python3 backend/Socket.py
+```
