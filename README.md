@@ -1,3 +1,7 @@
+# Job Interview Vocab Trainer
+
+Created for HackTheCastle II. Devpost page linked [here](https://devpost.com/software/job-interview-simulator).
+
 ## Inspiration
 The inspiration for this project came when we were thinking about the struggles that ESL speakers face when attempting to get a job. Our group realized that many ESL speakers know general vocabulary in English, but their vocabulary might not include words relevant to their careers. In order for them to learn this, we thought that having a simulator for a job interview where they can review vocabulary would be helpful interviews and in their careers. Additionally, having the opportunity to practice a job interview would allow them to be more confident that they know how to answer the questions that they might encounter in a real interview.
 
