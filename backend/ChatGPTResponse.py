@@ -1,5 +1,10 @@
 from openai import OpenAI
-from api_key_storage import API_KEY
+import os
+from dotenv import load_dotenv
+
+load_dotenv()
+
+API_KEY = os.getenv('OPENAI_API_KEY')
 
 class GPT:
     def __init__(self, api_key=API_KEY):
